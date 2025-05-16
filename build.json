@@ -3,7 +3,7 @@
     {
       "Position": "19.072,30.404,1.372",
       "Rotation": "0,0,0",
-      "Transparency": 1,
+      "Transparency": 0,
       "Anchored": true,
       "CanCollide": false,
       "Size": "2,6,2"
